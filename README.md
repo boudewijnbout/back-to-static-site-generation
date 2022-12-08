@@ -1,11 +1,10 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# ⚡ CMD Midterm
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+<img width="800" alt="Schermafbeelding 2022-11-03 om 16 42 03" src="https://user-images.githubusercontent.com/45170095/199767105-61408413-58ae-4293-aeef-dfe5e7c48306.png">
 
-## Inhoudsopgave
+Dit project omvat een andere versie van de CMD Midterm website. Ik heb deze variant gemaakt, omdat ik niet tevreden was met het resultaat van vorige sprint en omdat ik niet verder kwam met mijn nuxt3 project.
+
+## 📚 Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
@@ -13,22 +12,46 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
   * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
+  
+## ⚡ Kenmerken
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+**Tools**
 
-## Installatie
+- 🖥️ VSCode
+- ✍ Pen & Papier
 
-## Gebruik
+**Gebruikte technieken**
 
-## Bronnen
+- 🚀 SvelteKit
+- 🖼 Prismic.io
+- 💅🏼 CSS
 
-## Licentie
+
+## 📥 Installatie
+
+1. Clone of download deze repository
+2. Ga naar de root directory van het project.
+3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
+4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `3000`.
+
+
+## 🔨 Gebruik
+
+De applicatie is op twee manieren te gebruiken: lokaal en op het web. Lokaal is bedoeld voor het testen, experimenten en eventueel verbeteren van de applicatie in een ontwikkel omgeving. Het is ook mogelijk om de applicatie online te bezoeken en te gebruiken, dit kan op onderstaande link:
+
+[Webversie](https://lose-your-head-the-client-case-eight.vercel.app/)
+
+## 📖 Bronnen
+
+[SvelteKit](https://kit.svelte.dev/)
+<br>
+[Prismic](https://prismic.io/)
+<br>
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## 🔓 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
