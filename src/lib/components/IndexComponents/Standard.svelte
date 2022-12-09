@@ -18,7 +18,7 @@
 				color: "rgba(255, 240, 33, 0.5)",
 				border: "none",
 			})}
-		href={standardUID}>{standardTitle}</a
+		href="/">{standardTitle}</a
 	>
 	<ul><slot /></ul>
 </section>
