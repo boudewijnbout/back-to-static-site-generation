@@ -1,4 +1,4 @@
-# ⚡ CMD Midterm
+# ⚡ CMD Midterm (SSG)
 
 <img width="800" alt="Schermafbeelding 2022-11-03 om 16 42 03" src="https://user-images.githubusercontent.com/45170095/199767105-61408413-58ae-4293-aeef-dfe5e7c48306.png">
 
@@ -6,13 +6,13 @@ Dit project omvat een andere versie van de CMD Midterm website. Ik heb deze vari
 
 ## 📚 Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
-  
+- [Beschrijving](#beschrijving)
+- [Kenmerken](#kenmerken)
+- [Installatie](#installatie)
+- [Gebruik](#gebruik)
+- [Bronnen](#bronnen)
+- [Licentie](#licentie)
+
 ## ⚡ Kenmerken
 
 Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
@@ -28,14 +28,12 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog e
 - 🖼 Prismic.io
 - 💅🏼 CSS
 
-
 ## 📥 Installatie
 
 1. Clone of download deze repository
 2. Ga naar de root directory van het project.
 3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
 4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `3000`.
-
 
 ## 🔨 Gebruik
 
