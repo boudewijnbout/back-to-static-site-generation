@@ -1,8 +1,8 @@
-# ⚡ CMD Midterm
+# ⚡ CMD Midterm (SSG)
 
 <img width="800" alt="Schermafbeelding 2022-11-03 om 16 42 03" src="https://user-images.githubusercontent.com/45170095/199767105-61408413-58ae-4293-aeef-dfe5e7c48306.png">
 
-Dit project omvat een andere versie van de CMD Midterm website. Ik heb deze variant gemaakt, omdat ik niet tevreden was met het resultaat van vorige sprint en omdat ik niet verder kwam met mijn nuxt3 project.
+Dit project omvat de CMD Midterm website, maar dan word deze statisch gegenereerd, voor snelle performance op het web.
 
 ## 📚 Inhoudsopgave
 
