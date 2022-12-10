@@ -20,7 +20,6 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog e
 **Tools**
 
 - 🖥️ VSCode
-- ✍ Pen & Papier
 
 **Gebruikte technieken**
 
@@ -35,7 +34,6 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog e
 2. Ga naar de root directory van het project.
 3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
 4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `3000`.
-
 
 ## 🔨 Gebruik
 
