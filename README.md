@@ -33,7 +33,7 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Verder staat hieronder nog e
 1. Clone of download deze repository
 2. Ga naar de root directory van het project.
 3. Gebruik `npm install` om de gebruikte dev dependencies en packages te installeren.
-4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbar op poort `3000`.
+4. Gebruik `npm run dev` om de web-server te starten. Deze is standaard bereikbaar op poort `3000`.
 
 ## 🔨 Gebruik
 
